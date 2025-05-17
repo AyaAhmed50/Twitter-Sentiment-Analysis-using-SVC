@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # 📘 Twitter Entity Sentiment Analysis
 
 This project performs **entity-based sentiment analysis** on tweets using a publicly available dataset from Kaggle. The aim is to identify named entities (like organizations, people, products) and determine the **sentiment** expressed about them within each tweet.
@@ -81,6 +79,3 @@ Twitter_Sentiment_Analysis/
 ├── README.md # Project overview file
 └── main.py # Python dependencies
 ```
-=======
-
->>>>>>> bc5b46a0bfe673c9d0b98bfc67065b03c0ea23d8
